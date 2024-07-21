@@ -1,0 +1,2 @@
+Metacritic Reviews Dataset
+https://www.kaggle.com/datasets/beridzeg45/metacritic-pc-games-reviews?resource=download
